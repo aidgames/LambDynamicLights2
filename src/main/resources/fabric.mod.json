@@ -3,7 +3,7 @@
   "id": "lambdynlights",
   "name": "LambDynamicLights",
   "version": "${version}",
-  "description": "Adds dynamic lights to the game.",
+  "description": "Adds dynamic lights to the game. 1.19.4 unofficial",
   "authors": [
     "LambdAurora"
   ],
